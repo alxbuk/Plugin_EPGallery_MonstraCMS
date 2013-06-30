@@ -47,3 +47,6 @@ slimbox2.css - загружается через минификацию
  - сам jquery.EmbedPicasaGallery.js
 
  - и slimbox2.js внизу
+
+
+TestRec
